@@ -1,12 +1,12 @@
 [
-	{
+  {
     endTime: '1/21/2023',
     message: "January's message",
-		startTime: '1/20/2023',
-	},
-	{
-		endTime: '2/21/2023',
+    startTime: '1/20/2023',
+  },
+  {
+    endTime: '2/21/2023',
     message: "February's message",
-		startTime: '2/20/2023',
-	},
+    startTime: '2/20/2023',
+  },
 ]
